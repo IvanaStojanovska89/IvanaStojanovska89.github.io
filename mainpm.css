@@ -30,6 +30,12 @@ h3 {
     margin-left: auto;
     margin-right: auto;
 }
-a {
-    color: #426493;
+
+#footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #426493;
+    color: white;
+    text-align: center;
 }
